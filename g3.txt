@@ -1,0 +1,13 @@
+G;Gimnasio Pokemon de Ciudad Carmín; 3; 2
+L;Teniente Surge
+P;Paras;25;36;55
+P;Parasect;30;59;38
+P;Venonat;45;55;50
+P;Venomoth;60;21;60
+P;Diglett;56;55;25
+E;Campista Lola
+P;Mareep;35;40;40
+P;Flaaffy;45;55;55
+P;Ampharos;55;63;61
+P;AmpharosMega Ampharos;45;51;61
+P;Bellossom;50;52;35

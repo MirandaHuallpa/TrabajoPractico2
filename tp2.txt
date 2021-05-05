@@ -1,0 +1,99 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <stddef.h>
+
+#define TAMANIO 10
+#define MAX_OPC 7
+#define MAX_STR 7
+
+typedef struct menu{
+  char opciones[MAX_OPC];
+  char descripciones[MAX_OPC][MAX_STR];
+  size_t cant_opciones;
+}
+
+typedef enum {INICIO,GYM,BATALLA,VICTORIA,DERROTA,FIN,CANT_MENUS} menu_t;
+//menu_t funcion_menu(juego_t* juego);
+//...
+
+/*Vector que contiene todos los vectores posibles del juego*/
+
+funcion_menu* const nuevo_menu[CANT_MENUS] = {menu_inicio,menu_gym,menu_batalla,menu_victoria,menu_derrota};
+
+/*Muestra el menu actual */
+
+menu_t mostrar_menu(menu_t menu_actual,juego_t* juego)
+{
+  return nuevo_menu[menu_actual] (juego);
+}
+
+int main() {
+  menu_t manu_actual = INICIO;
+  while(menu_actual != FIN)
+  {
+    menu_actual = mostrar_menu(menu_actual,juego);
+    //llammo a algunas de las funciones del menu
+  }
+
+  return 0;
+}
+
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef enum{
+    RUNNING = 49,
+    STOPPED = 50,
+    FAILED = 3,
+    HIBERNATING = 52
+} MACHINE_STATE;
+
+
+int main(void) {
+  
+    char texto[5][50] = {"E: Ingresa el archivo del entrenador principal","A: Agrega un gimnasio al árbol de gimnasios",
+                         "I: Comienza la partida","S: Simula la partida","R: Regresar"};
+    int input1;
+    MACHINE_STATE state;
+
+    printf("Please provide integer in range [1-4]: ");
+    //input1 = getchar(); deveule lo que escribio el usuario en '3' comillas
+    state = 3;
+
+    switch (state) {
+        case RUNNING:
+            printf("Machine is running\n");
+            break;
+        case STOPPED:
+            printf("Machine is stopped\n");
+            break;
+        case FAILED:
+            printf("Machine is in failed state\n");
+            break;
+        case HIBERNATING:
+            printf("Machine is hibernated\n");
+            break;
+        default:
+            break;
+    }
+    return 0;
+}
+
+char *leer_linea(char *memoria,int tam_memoria,FILE* archivo)
+{
+    char *linea_leida = NULL;
+    linea_leida = fgets(memoria,tam_memoria,archivo);
+    if(!linea_leida) return NULL;
+
+    size_t posicion = strlen(linea_leida);
+
+    if(posicion == 0 || memoria[posicion - 1] != '\n')
+    {
+        char descartar[1024];
+        leer_linea(descartar,1024,archivo);
+    }
+    memoria[posicion -1] = 0;
+    return memoria;
+}

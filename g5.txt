@@ -1,0 +1,12 @@
+G;Gimnasio Pokemon de Ciudad Fucsia;35;3
+L;Koga
+P;Seel;45;45;55
+P;Dewgong;50;52;62
+P;Grimer;25;39;50
+P;Muk;50;62;58
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Slugma;20;40;40
+P;Magcargo;30;50;56
+P;Swinub;50;50;40

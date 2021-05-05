@@ -1,0 +1,15 @@
+G;Gimnasio Pokemon de Ciudad Azafrán;54;2
+L;Sabrina
+P;Gengar;62;26;60
+P;GengarMega Gengar;58;28;60
+P;Onix;37;45;52
+P;Drowzee;42;48;45
+P;Hypno;48;47;53
+P;Krabby;50;63;39
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Octillery;45;49;28
+P;Delibird;52;55;45
+P;Mantine;56;40;25
+P;Skarmory;32;34;62

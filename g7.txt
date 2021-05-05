@@ -1,0 +1,14 @@
+G;Gimnasio Pokémon de Isla Canela;89;3
+L;Blaine
+P;Snorlax;30;54;10
+P;Articuno;63;32;56
+P;Zapdos;59;32;51
+P;Moltres;46;38;57
+P;Dratini;50;17;45
+P;Dragonair;41;60;39
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Phanpy;40;60;60
+P;Donphan;50;54;48
+P;Porygon2;60;48;58

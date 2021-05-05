@@ -1,0 +1,12 @@
+G;Gimnasio Pokemon de Ciudad Plateada;20;3
+L;Brook
+P;Metapod;30;20;55
+P;Butterfree;59;45;50
+P;Weedle;50;35;30
+E;Dominguera Amara
+P;Lanturn;43;58;58
+P;Pichu;60;40;15
+P;Cleffa;15;25;28
+E;Campista Angelito
+P;Togetic;40;40;53
+P;Natu;23;50;45

@@ -1,0 +1,13 @@
+G;Gimnasio Pokémon de Ciudad Verde;6;2
+L;Giovanni
+P;Sentret;20;46;34
+P;Furret;51;60;13
+P;Hoothoot;50;30;30
+P;Noctowl;49;50;50
+E;Dominguera Diana
+P;Goldeen; 40; 50; 30
+E;Nadador Luis
+P;Unown;48;31;48
+P;Wobbuffet;33;33;58
+P;Girafarig;44;62;33
+P;Pineco;15;9;62

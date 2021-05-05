@@ -1,0 +1,12 @@
+G;Gimnasio Pokemon de Ciudad Azulona;8;1
+L;Erika
+P;Machamp;55;55;59
+P;Bellsprout;40;28;35
+P;Weepinbell;55;56;50
+P;Victreebel;22;63;11
+P;Tentacool;18;40;35
+P;Tentacruel;60;29;8
+E;Dominguera Forrest
+E;Nadador Joy
+P;Hoppip;50;35;40
+P;Skiploom;60;45;50

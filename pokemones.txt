@@ -1,0 +1,800 @@
+P;Bulbasaur;45;49;49
+P;Ivysaur;60;62;63
+P;Venusaur;59;51;32
+P;VenusaurMega Venusaur;26;52;19
+P;Charmander;46;52;43
+P;Charmeleon;56;46;58
+P;Charizard;63;38;41
+P;CharizardMega Charizard X;55;42;53
+P;CharizardMega Charizard Y;52;54;43
+P;Squirtle;43;48;61
+P;Wartortle;58;63;52
+P;Blastoise;42;61;40
+P;BlastoiseMega Blastoise;52;44;54
+P;Caterpie;45;30;35
+P;Metapod;30;20;55
+P;Butterfree;59;45;50
+P;Weedle;50;35;30
+P;Kakuna;35;25;50
+P;Beedrill;42;32;40
+P;BeedrillMega Beedrill;37;59;40
+P;Pidgey;56;45;40
+P;Pidgeotto;16;60;55
+P;Pidgeot;53;48;55
+P;PidgeotMega Pidgeot;53;39;50
+P;Rattata;30;56;35
+P;Raticate;49;44;60
+P;Spearow;18;60;30
+P;Fearow;45;56;28
+P;Ekans;55;60;44
+P;Arbok;62;29;39
+P;Pikachu;46;55;40
+P;Raichu;24;38;55
+P;Sandshrew;40;63;51
+P;Sandslash;41;44;62
+P;Nidoran♀;41;47;52
+P;Nidorina;56;62;43
+P;Nidoqueen;62;51;63
+P;Nidoran♂;50;57;40
+P;Nidorino;63;62;57
+P;Nidoking;54;62;55
+P;Clefairy;35;45;48
+P;Clefable;60;47;63
+P;Vulpix;29;41;40
+P;Ninetales;59;25;42
+P;Jigglypuff;20;45;20
+P;Wigglytuff;45;15;45
+P;Zubat;55;45;35
+P;Golbat;42;43;57
+P;Oddish;30;50;55
+P;Gloom;40;53;40
+P;Vileplume;50;46;54
+P;Paras;25;36;55
+P;Parasect;30;59;38
+P;Venonat;45;55;50
+P;Venomoth;60;21;60
+P;Diglett;56;55;25
+P;Dugtrio;62;50;50
+P;Meowth;60;45;35
+P;Persian;41;23;60
+P;Psyduck;55;52;48
+P;Golduck;56;48;60
+P;Mankey;57;28;35
+P;Primeape;49;63;60
+P;Growlithe;60;34;45
+P;Arcanine;33;46;60
+P;Poliwag;43;50;40
+P;Poliwhirl;49;24;36
+P;Poliwrath;62;53;41
+P;Abra;47;20;15
+P;Kadabra;51;35;30
+P;Alakazam;32;50;45
+P;AlakazamMega Alakazam;42;50;37
+P;Machop;35;42;50
+P;Machoke;45;52;12
+P;Machamp;55;55;59
+P;Bellsprout;40;28;35
+P;Weepinbell;55;56;50
+P;Victreebel;22;63;11
+P;Tentacool;18;40;35
+P;Tentacruel;60;29;8
+P;Geodude;20;21;62
+P;Graveler;35;52;45
+P;Golem;45;63;52
+P;Ponyta;57;47;55
+P;Rapidash;43;28;18
+P;Slowpoke;15;27;35
+P;Slowbro;30;36;55
+P;SlowbroMega Slowbro;30;16;60
+P;Magnemite;45;35;11
+P;Magneton;40;60;33
+P;Farfetch'd;60;32;55
+P;Doduo;63;61;45
+P;Dodrio;60;55;14
+P;Seel;45;45;55
+P;Dewgong;50;52;62
+P;Grimer;25;39;50
+P;Muk;50;62;58
+P;Shellder;40;7;58
+P;Cloyster;52;59;45
+P;Gastly;32;35;30
+P;Haunter;59;50;45
+P;Gengar;62;26;60
+P;GengarMega Gengar;58;28;60
+P;Onix;37;45;52
+P;Drowzee;42;48;45
+P;Hypno;48;47;53
+P;Krabby;50;63;39
+P;Kingler;33;44;35
+P;Voltorb;48;30;50
+P;Electrode;47;50;55
+P;Exeggcute;40;40;57
+P;Exeggutor;55;49;32
+P;Cubone;35;50;37
+P;Marowak;45;55;61
+P;Hitmonlee;33;63;53
+P;Hitmonchan;62;45;33
+P;Lickitung;30;55;22
+P;Koffing;35;50;41
+P;Weezing;60;42;48
+P;Rhyhorn;25;60;63
+P;Rhydon;40;60;57
+P;Chansey;50;5;5
+P;Tangela;60;55;37
+P;Kangaskhan;50;47;62
+P;KangaskhanMega Kangaskhan;40;11;48
+P;Horsea;60;40;57
+P;Seadra;43;30;43
+P;Goldeen;63;57;60
+P;Seaking;54;59;20
+P;Staryu;55;45;55
+P;Starmie;59;52;55
+P;Mr. Mime;38;45;17
+P;Scyther;61;63;43
+P;Jynx;36;50;35
+P;Electabuzz;63;24;57
+P;Magmar;39;37;57
+P;Pinsir;40;44;62
+P;PinsirMega Pinsir;62;38;36
+P;Tauros;56;48;42
+P;Magikarp;48;10;55
+P;Gyarados;51;33;56
+P;GyaradosMega Gyarados;61;53;52
+P;Lapras;60;53;37
+P;Ditto;48;48;48
+P;Eevee;55;55;50
+P;Vaporeon;17;22;60
+P;Jolteon;58;37;60
+P;Flareon;32;58;60
+P;Porygon;40;60;62
+P;Omanyte;35;40;30
+P;Omastar;55;60;45
+P;Kabuto;55;39;62
+P;Kabutops;54;31;60
+P;Aerodactyl;50;48;45
+P;AerodactylMega Aerodactyl;54;58;43
+P;Snorlax;30;54;10
+P;Articuno;63;32;56
+P;Zapdos;59;32;51
+P;Moltres;46;38;57
+P;Dratini;50;17;45
+P;Dragonair;41;60;39
+P;Dragonite;58;18;36
+P;Mewtwo;37;28;58
+P;MewtwoMega Mewtwo X;30;16;57
+P;MewtwoMega Mewtwo Y;62;48;17
+P;Mew;43;60;41
+P;Chikorita;45;49;22
+P;Bayleef;60;62;39
+P;Meganium;34;35;61
+P;Cyndaquil;63;52;43
+P;Quilava;62;32;58
+P;Typhlosion;52;63;28
+P;Totodile;43;43;34
+P;Croconaw;58;36;61
+P;Feraligatr;60;53;46
+P;Sentret;20;46;34
+P;Furret;51;60;13
+P;Hoothoot;50;30;30
+P;Noctowl;49;50;50
+P;Ledyba;55;20;30
+P;Ledian;32;35;50
+P;Spinarak;30;60;40
+P;Ariados;40;54;35
+P;Crobat;46;39;58
+P;Chinchou;28;38;38
+P;Lanturn;43;58;58
+P;Pichu;60;40;15
+P;Cleffa;15;25;28
+P;Igglybuff;15;30;15
+P;Togepi;20;20;35
+P;Togetic;40;40;53
+P;Natu;23;50;45
+P;Xatu;53;53;47
+P;Mareep;35;40;40
+P;Flaaffy;45;55;55
+P;Ampharos;55;63;61
+P;AmpharosMega Ampharos;45;51;61
+P;Bellossom;50;52;35
+P;Marill;40;20;50
+P;Azumarill;50;50;62
+P;Sudowoodo;30;51;13
+P;Politoed;10;53;52
+P;Hoppip;50;35;40
+P;Skiploom;60;45;50
+P;Jumpluff;56;55;50
+P;Aipom;51;37;55
+P;Sunkern;30;30;30
+P;Sunflora;30;58;55
+P;Yanma;56;12;45
+P;Wooper;15;45;45
+P;Quagsire;35;47;49
+P;Espeon;36;47;60
+P;Umbreon;52;55;61
+P;Murkrow;61;55;42
+P;Slowking;30;50;44
+P;Misdreavus;37;60;60
+P;Unown;48;31;48
+P;Wobbuffet;33;33;58
+P;Girafarig;44;62;33
+P;Pineco;15;9;62
+P;Forretress;40;50;26
+P;Dunsparce;45;36;63
+P;Gligar;60;63;57
+P;Steelix;30;55;50
+P;SteelixMega Steelix;30;49;46
+P;Snubbull;30;46;50
+P;Granbull;45;50;16
+P;Qwilfish;63;56;32
+P;Scizor;41;10;40
+P;ScizorMega Scizor;23;54;44
+P;Shuckle;5;10;62
+P;Heracross;47;49;42
+P;HeracrossMega Heracross;22;60;45
+P;Sneasel;55;37;55
+P;Teddiursa;40;34;50
+P;Ursaring;55;43;42
+P;Slugma;20;40;40
+P;Magcargo;30;50;56
+P;Swinub;50;50;40
+P;Piloswine;50;60;49
+P;Corsola;35;55;57
+P;Remoraid;57;46;35
+P;Octillery;45;49;28
+P;Delibird;52;55;45
+P;Mantine;56;40;25
+P;Skarmory;32;34;62
+P;Houndour;41;60;30
+P;Houndoom;33;62;50
+P;HoundoomMega Houndoom;39;44;38
+P;Kingdra;63;39;47
+P;Phanpy;40;60;60
+P;Donphan;50;54;48
+P;Porygon2;60;48;58
+P;Stantler;44;59;62
+P;Smeargle;50;20;35
+P;Tyrogue;35;35;35
+P;Hitmontop;61;55;35
+P;Smoochum;44;30;15
+P;Elekid;63;63;37
+P;Magby;40;58;37
+P;Miltank;63;63;35
+P;Blissey;55;10;10
+P;Raikou;56;58;53
+P;Entei;62;45;58
+P;Suicune;34;61;39
+P;Larvitar;41;40;50
+P;Pupitar;51;31;62
+P;Tyranitar;61;28;54
+P;TyranitarMega Tyranitar;57;59;59
+P;Lugia;24;63;58
+P;Ho-oh;63;44;50
+P;Celebi;58;30;46
+P;Treecko;41;45;35
+P;Grovyle;48;56;45
+P;Sceptile;52;63;38
+P;SceptileMega Sceptile;55;57;33
+P;Torchic;45;60;40
+P;Combusken;55;36;60
+P;Blaziken;41;16;47
+P;BlazikenMega Blaziken;62;60;57
+P;Mudkip;40;23;50
+P;Marshtomp;50;37;38
+P;Swampert;60;56;56
+P;SwampertMega Swampert;38;52;26
+P;Poochyena;35;55;35
+P;Mightyena;39;63;33
+P;Zigzagoon;60;30;41
+P;Linoone;61;39;61
+P;Wurmple;20;45;35
+P;Silcoon;15;35;55
+P;Beautifly;27;35;50
+P;Cascoon;15;35;55
+P;Dustox;31;50;38
+P;Lotad;30;30;30
+P;Lombre;50;50;50
+P;Ludicolo;51;13;48
+P;Seedot;30;40;50
+P;Nuzleaf;60;48;40
+P;Shiftry;42;46;60
+P;Taillow;34;55;30
+P;Swellow;41;43;60
+P;Wingull;45;30;30
+P;Pelipper;14;50;46
+P;Ralts;40;25;25
+P;Kirlia;50;35;35
+P;Gardevoir;62;25;23
+P;GardevoirMega Gardevoir;34;27;63
+P;Surskit;32;30;32
+P;Masquerain;60;60;62
+P;Shroomish;35;40;60
+P;Breloom;38;52;62
+P;Slakoth;30;60;60
+P;Vigoroth;49;54;54
+P;Slaking;32;61;55
+P;Nincada;40;45;32
+P;Ninjask;54;63;45
+P;Shedinja;40;62;45
+P;Whismur;28;51;23
+P;Loudred;48;12;43
+P;Exploud;62;61;63
+P;Makuhita;25;60;30
+P;Hariyama;50;63;60
+P;Azurill;20;20;40
+P;Nosepass;30;45;58
+P;Skitty;50;45;45
+P;Delcatty;49;59;38
+P;Sableye;50;25;47
+P;SableyeMega Sableye;20;43;17
+P;Mawile;50;54;41
+P;MawileMega Mawile;50;45;19
+P;Aron;30;63;60
+P;Lairon;40;31;40
+P;Aggron;50;62;56
+P;AggronMega Aggron;50;40;54
+P;Meditite;60;40;55
+P;Medicham;42;60;48
+P;MedichamMega Medicham;42;36;53
+P;Electrike;22;45;40
+P;Manectric;53;57;60
+P;ManectricMega Manectric;55;25;61
+P;Plusle;54;50;40
+P;Minun;35;40;50
+P;Volbeat;33;46;55
+P;Illumise;50;47;55
+P;Roselia;9;60;45
+P;Gulpin;40;43;53
+P;Swalot;55;33;57
+P;Carvanha;46;61;20
+P;Sharpedo;35;63;40
+P;SharpedoMega Sharpedo;57;56;56
+P;Wailmer;60;41;35
+P;Wailord;60;63;45
+P;Numel;35;60;40
+P;Camerupt;40;58;26
+P;CameruptMega Camerupt;20;26;57
+P;Torkoal;20;50;50
+P;Spoink;60;25;35
+P;Grumpig;25;45;28
+P;Spinda;60;60;60
+P;Trapinch;10;43;45
+P;Vibrava;63;33;50
+P;Flygon;62;46;44
+P;Cacnea;35;58;40
+P;Cacturne;55;51;60
+P;Swablu;50;40;60
+P;Altaria;29;45;52
+P;AltariaMega Altaria;21;58;58
+P;Zangoose;55;46;60
+P;Seviper;60;55;60
+P;Lunatone;61;55;13
+P;Solrock;48;45;57
+P;Barboach;60;48;43
+P;Whiscash;60;60;60
+P;Corphish;35;25;29
+P;Crawdaunt;55;36;55
+P;Baltoy;55;40;55
+P;Claydol;22;45;59
+P;Lileep;23;41;40
+P;Cradily;43;40;60
+P;Anorith;60;50;50
+P;Armaldo;45;45;28
+P;Feebas;62;15;20
+P;Milotic;51;60;59
+P;Castform;60;45;55
+P;Kecleon;40;52;36
+P;Shuppet;45;59;35
+P;Banette;60;31;42
+P;BanetteMega Banette;42;61;46
+P;Duskull;25;40;63
+P;Dusclops;25;11;22
+P;Tropius;51;62;50
+P;Chimecho;37;50;45
+P;Absol;28;42;60
+P;AbsolMega Absol;62;60;60
+P;Wynaut;23;23;48
+P;Snorunt;50;50;50
+P;Glalie;41;26;52
+P;GlalieMega Glalie;60;20;27
+P;Spheal;25;40;50
+P;Sealeo;45;60;42
+P;Walrein;40;20;46
+P;Clamperl;32;51;37
+P;Huntail;52;40;59
+P;Gorebyss;52;46;51
+P;Relicanth;55;63;50
+P;Luvdisc;55;30;55
+P;Bagon;50;38;60
+P;Shelgon;50;60;58
+P;Salamence;54;51;52
+P;SalamenceMega Salamence;60;57;48
+P;Beldum;30;55;47
+P;Metang;50;44;63
+P;Metagross;41;58;58
+P;MetagrossMega Metagross;63;25;42
+P;Regirock;50;42;53
+P;Regice;50;50;59
+P;Registeel;50;63;48
+P;Latias;52;55;58
+P;LatiasMega Latias;59;58;57
+P;Latios;60;63;38
+P;LatiosMega Latios;44;34;52
+P;Kyogre;32;50;54
+P;KyogrePrimal Kyogre;32;40;50
+P;Groudon;58;60;22
+P;GroudonPrimal Groudon;53;62;52
+P;Rayquaza;59;59;60
+P;RayquazaMega Rayquaza;61;40;58
+P;Jirachi;34;46;36
+P;DeoxysNormal Forme;44;48;50
+P;DeoxysAttack Forme;42;48;20
+P;DeoxysDefense Forme;62;48;62
+P;DeoxysSpeed Forme;42;60;47
+P;Turtwig;31;43;26
+P;Grotle;36;45;33
+P;Torterra;56;49;60
+P;Chimchar;61;58;44
+P;Monferno;61;50;52
+P;Infernape;22;42;26
+P;Piplup;40;51;53
+P;Prinplup;50;18;51
+P;Empoleon;60;58;57
+P;Starly;60;55;30
+P;Staravia;58;26;50
+P;Staraptor;58;54;35
+P;Bidoof;31;45;40
+P;Bibarel;30;63;60
+P;Kricketot;25;25;41
+P;Kricketune;30;53;51
+P;Shinx;45;7;34
+P;Luxio;60;41;49
+P;Luxray;60;63;56
+P;Budew;55;30;35
+P;Roserade;46;15;44
+P;Cranidos;58;57;40
+P;Rampardos;58;55;60
+P;Shieldon;30;42;62
+P;Bastiodon;30;52;36
+P;Burmy;36;29;45
+P;WormadamPlant Cloak;36;59;47
+P;WormadamSandy Cloak;36;61;63
+P;WormadamTrash Cloak;36;25;56
+P;Mothim;30;45;50
+P;Combee;22;30;42
+P;Vespiquen;40;62;48
+P;Pachirisu;37;45;31
+P;Buizel;60;32;35
+P;Floatzel;17;57;55
+P;Cherubi;35;35;45
+P;Cherrim;61;60;14
+P;Shellos;34;48;48
+P;Gastrodon;39;25;19
+P;Ambipom;25;55;37
+P;Drifloon;24;50;34
+P;Drifblim;25;21;44
+P;Buneary;52;45;44
+P;Lopunny;63;58;62
+P;LopunnyMega Lopunny;48;34;58
+P;Mismagius;53;60;60
+P;Honchkrow;58;23;52
+P;Glameow;55;55;42
+P;Purugly;62;56;57
+P;Chingling;45;30;50
+P;Stunky;55;63;47
+P;Skuntank;62;36;7
+P;Bronzor;23;24;46
+P;Bronzong;33;57;42
+P;Bonsly;10;59;62
+P;Mime Jr.;60;25;45
+P;Happiny;30;5;5
+P;Chatot;61;46;45
+P;Spiritomb;35;36;60
+P;Gible;42;53;45
+P;Gabite;63;38;13
+P;Garchomp;45;42;47
+P;GarchompMega Garchomp;62;54;53
+P;Munchlax;5;60;40
+P;Riolu;60;56;40
+P;Lucario;56;46;14
+P;LucarioMega Lucario;52;37;62
+P;Hippopotas;32;58;57
+P;Hippowdon;47;56;38
+P;Skorupi;20;50;41
+P;Drapion;59;51;62
+P;Croagunk;50;61;40
+P;Toxicroak;31;22;18
+P;Carnivine;46;61;29
+P;Finneon;27;49;56
+P;Lumineon;39;16;57
+P;Mantyke;50;20;50
+P;Snover;40;62;50
+P;Abomasnow;60;48;46
+P;AbomasnowMega Abomasnow;30;51;57
+P;Weavile;11;54;36
+P;Magnezone;60;31;63
+P;Lickilicky;50;63;62
+P;Rhyperior;40;46;49
+P;Tangrowth;50;62;41
+P;Electivire;48;25;55
+P;Magmortar;41;53;54
+P;Togekiss;37;50;41
+P;Yanmega;62;60;37
+P;Leafeon;57;61;55
+P;Glaceon;26;60;59
+P;Gliscor;35;50;15
+P;Mamoswine;26;42;32
+P;Porygon-Z;50;51;43
+P;Gallade;41;53;28
+P;GalladeMega Gallade;59;27;61
+P;Probopass;40;55;55
+P;Dusknoir;45;60;25
+P;Froslass;56;41;20
+P;Rotom;61;50;21
+P;RotomHeat Rotom;62;13;62
+P;RotomWash Rotom;56;35;49
+P;RotomFrost Rotom;36;6;21
+P;RotomFan Rotom;54;13;63
+P;RotomMow Rotom;34;54;44
+P;Uxie;63;25;58
+P;Mesprit;51;41;45
+P;Azelf;55;47;36
+P;Dialga;33;28;55
+P;Palkia;48;26;46
+P;Heatran;49;37;32
+P;Regigigas;51;48;62
+P;GiratinaAltered Forme;59;46;8
+P;GiratinaOrigin Forme;57;57;61
+P;Cresselia;32;48;22
+P;Phione;21;60;50
+P;Manaphy;44;60;47
+P;Darkrai;19;42;54
+P;ShayminLand Forme;60;38;44
+P;ShayminSky Forme;27;49;33
+P;Arceus;42;60;52
+P;Victini;54;40;58
+P;Snivy;63;45;55
+P;Servine;35;60;18
+P;Serperior;55;63;59
+P;Tepig;45;63;45
+P;Pignite;55;38;55
+P;Emboar;13;53;41
+P;Oshawott;45;55;45
+P;Dewott;60;63;60
+P;Samurott;16;56;57
+P;Patrat;42;55;39
+P;Watchog;52;61;9
+P;Lillipup;55;60;45
+P;Herdier;60;54;23
+P;Stoutland;45;28;52
+P;Purrloin;31;50;37
+P;Liepard;48;62;50
+P;Pansage;20;53;48
+P;Simisage;54;47;63
+P;Pansear;4;53;48
+P;Simisear;33;43;63
+P;Panpour;39;53;48
+P;Simipour;46;61;63
+P;Munna;24;25;45
+P;Musharna;29;55;46
+P;Pidove;43;55;50
+P;Tranquill;15;57;62
+P;Unfezant;61;55;56
+P;Blitzle;48;60;32
+P;Zebstrika;44;58;63
+P;Roggenrola;15;54;39
+P;Boldore;20;51;63
+P;Gigalith;25;58;44
+P;Woobat;49;45;43
+P;Swoobat;61;57;55
+P;Drilbur;15;46;40
+P;Excadrill;31;15;60
+P;Audino;50;60;59
+P;AudinoMega Audino;50;60;40
+P;Timburr;35;48;55
+P;Gurdurr;40;43;53
+P;Conkeldurr;45;38;63
+P;Tympole;17;50;40
+P;Palpitoad;59;10;55
+P;Seismitoad;40;59;35
+P;Throh;45;47;49
+P;Sawk;41;51;57
+P;Sewaddle;42;53;20
+P;Swadloon;42;63;52
+P;Leavanny;62;46;35
+P;Venipede;57;45;59
+P;Whirlipede;47;55;41
+P;Scolipede;16;58;62
+P;Cottonee;63;27;60
+P;Whimsicott;32;46;43
+P;Petilil;30;35;50
+P;Lilligant;30;60;34
+P;Basculin;57;59;60
+P;Sandile;55;17;35
+P;Krokorok;19;56;45
+P;Krookodile;62;33;42
+P;Darumaka;50;54;45
+P;DarmanitanStandard Mode;61;32;55
+P;DarmanitanZen Mode;55;30;52
+P;Maractus;60;51;54
+P;Dwebble;55;56;57
+P;Crustle;45;35;55
+P;Scraggy;48;24;33
+P;Scrafty;58;58;46
+P;Sigilyph;53;58;45
+P;Yamask;30;30;61
+P;Cofagrigus;30;50;45
+P;Tirtouga;22;58;59
+P;Carracosta;32;54;31
+P;Archen;21;56;45
+P;Archeops;62;29;39
+P;Trubbish;51;50;62
+P;Garbodor;33;61;61
+P;Zorua;60;16;40
+P;Zoroark;43;57;60
+P;Minccino;36;50;40
+P;Cinccino;61;35;60
+P;Gothita;45;30;50
+P;Gothorita;55;45;62
+P;Gothitelle;52;55;62
+P;Solosis;20;30;40
+P;Duosion;30;40;50
+P;Reuniclus;30;9;53
+P;Ducklett;55;44;50
+P;Swanna;58;46;63
+P;Vanillite;44;50;50
+P;Vanillish;59;23;17
+P;Vanilluxe;37;59;35
+P;Deerling;26;60;50
+P;Sawsbuck;51;44;11
+P;Emolga;58;43;60
+P;Karrablast;60;63;45
+P;Escavalier;20;43;27
+P;Foongus;15;55;45
+P;Amoonguss;30;59;22
+P;Frillish;40;40;50
+P;Jellicent;60;60;46
+P;Alomomola;62;23;20
+P;Joltik;26;47;50
+P;Galvantula;32;63;60
+P;Ferroseed;10;50;53
+P;Ferrothorn;20;61;41
+P;Klink;30;55;63
+P;Klang;50;24;41
+P;Klinklang;58;59;62
+P;Tynamo;60;55;40
+P;Eelektrik;40;40;53
+P;Eelektross;50;57;63
+P;Elgyem;30;55;55
+P;Beheeyem;40;44;37
+P;Litwick;20;30;55
+P;Lampent;55;40;60
+P;Chandelure;62;55;46
+P;Axew;57;45;60
+P;Fraxure;39;57;29
+P;Haxorus;44;42;39
+P;Cubchoo;40;21;40
+P;Beartic;50;56;56
+P;Cryogonal;51;50;30
+P;Shelmet;25;40;31
+P;Accelgor;60;58;40
+P;Stunfisk;32;26;62
+P;Mienfoo;20;42;50
+P;Mienshao;59;5;60
+P;Druddigon;48;50;51
+P;Golett;35;62;50
+P;Golurk;55;30;52
+P;Pawniard;60;46;25
+P;Bisharp;56;53;40
+P;Bouffalant;55;44;35
+P;Rufflet;60;45;50
+P;Braviary;24;63;17
+P;Vullaby;60;55;35
+P;Mandibuzz;26;50;43
+P;Heatmor;58;45;9
+P;Durant;63;59;61
+P;Deino;38;63;50
+P;Zweilous;58;49;62
+P;Hydreigon;46;53;59
+P;Larvesta;60;54;55
+P;Volcarona;60;60;52
+P;Cobalion;62;57;45
+P;Terrakion;26;11;60
+P;Virizion;63;47;60
+P;TornadusIncarnate Forme;52;41;62
+P;TornadusTherian Forme;21;30;60
+P;ThundurusIncarnate Forme;57;55;58
+P;ThundurusTherian Forme;51;41;29
+P;Reshiram;43;60;41
+P;Zekrom;49;60;62
+P;LandorusIncarnate Forme;47;56;40
+P;LandorusTherian Forme;52;37;38
+P;Kyurem;55;46;40
+P;KyuremBlack Kyurem;53;50;34
+P;KyuremWhite Kyurem;47;12;63
+P;KeldeoOrdinary Forme;52;20;47
+P;KeldeoResolute Forme;42;31;62
+P;MeloettaAria Forme;60;26;52
+P;MeloettaPirouette Forme;60;58;46
+P;Genesect;51;12;55
+P;Chespin;38;61;23
+P;Quilladin;57;59;63
+P;Chesnaught;10;61;41
+P;Fennekin;60;45;40
+P;Braixen;47;59;58
+P;Delphox;44;61;62
+P;Froakie;18;56;40
+P;Frogadier;63;63;52
+P;Greninja;18;60;44
+P;Bunnelby;57;36;38
+P;Diggersby;26;56;43
+P;Fletchling;62;50;43
+P;Fletchinder;50;49;55
+P;Talonflame;58;61;41
+P;Scatterbug;35;35;40
+P;Spewpa;29;22;60
+P;Vivillon;61;52;50
+P;Litleo;52;50;58
+P;Pyroar;22;31;27
+P;Flabébé;42;38;39
+P;Floette;52;45;47
+P;Florges;17;42;62
+P;Skiddo;52;60;48
+P;Gogoat;42;56;62
+P;Pancham;43;35;62
+P;Pangoro;58;49;48
+P;Furfrou;62;36;60
+P;Espurr;40;48;54
+P;MeowsticMale;60;48;56
+P;MeowsticFemale;42;48;46
+P;Honedge;28;56;40
+P;Doublade;35;58;52
+P;AegislashBlade Forme;60;54;50
+P;AegislashShield Forme;60;50;54
+P;Spritzee;23;52;60
+P;Aromatisse;29;57;48
+P;Swirlix;49;48;59
+P;Slurpuff;29;34;41
+P;Inkay;45;54;53
+P;Malamar;60;60;62
+P;Binacle;50;52;43
+P;Barbaracle;50;54;31
+P;Skrelp;30;60;60
+P;Dragalge;44;36;31
+P;Clauncher;44;53;62
+P;Clawitzer;59;59;47
+P;Helioptile;40;38;33
+P;Heliolisk;49;55;52
+P;Tyrunt;48;63;58
+P;Tyrantrum;11;31;47
+P;Amaura;46;59;50
+P;Aurorus;58;24;42
+P;Sylveon;60;63;37
+P;Hawlucha;32;63;17
+P;Dedenne;56;58;57
+P;Carbink;50;50;30
+P;Goomy;40;50;35
+P;Sliggoo;60;63;53
+P;Goodra;28;49;59
+P;Klefki;57;60;44
+P;Phantump;38;14;48
+P;Trevenant;56;55;52
+P;PumpkabooAverage Size;51;59;60
+P;PumpkabooSmall Size;56;23;45
+P;PumpkabooLarge Size;46;41;27
+P;PumpkabooSuper Size;41;32;18
+P;GourgeistAverage Size;44;62;56
+P;GourgeistSmall Size;43;53;41
+P;GourgeistLarge Size;39;60;36
+P;GourgeistSuper Size;54;52;46
+P;Bergmite;28;21;52
+P;Avalugg;28;45;44
+P;Noibat;55;30;35
+P;Noivern;60;41;50
+P;Xerneas;58;63;63
+P;Yveltal;35;63;60
+P;Zygarde50% Forme;39;38;61
+P;Diancie;50;50;24
+P;DiancieMega Diancie;54;61;34
+P;HoopaHoopa Confined;44;32;60
+P;HoopaHoopa Unbound;22;43;60
+P;Volcanion;45;54;58
